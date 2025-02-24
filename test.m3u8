@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/304030/logo/240x240/mobile_logo_058213001739268041.png"group-title="ICC Champions Trophy",ICC Champions Trophy toffe bangla 
-https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
+link="https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8"
 cookie="Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1740450793:KeyName=prod_live_events:Signature=e89UoKIBaaEKkETzqGjW5O0YCBVZd9J4qit3FxPisHU0qCu6CnBPC-CUifx5MOhzXzja6wuD6o4tu3zX6HyPAQ"
 origin="https://mprod-cdn.toffeelive.com"
 drmLicense=""
